@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Prog_lang">
+        <item>C</item>
+        <item>C++</item>
+        <item>JAVA</item>
+        <item>PYTHON</item>
+        <item>DART</item>
+        <item>JAVASCRIPT</item>
+    </string-array>
+</resources>

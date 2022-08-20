@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/Rectangle"
+        android:title="Rectangle" />
+    <item android:id="@+id/Circle"
+        android:title="Circle" />
+    <item android:id="@+id/Triangle"
+        android:title="Triangle" />
+    <item android:id="@+id/Line"
+        android:title="Line" />
+</menu>
